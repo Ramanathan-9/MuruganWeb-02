@@ -1,0 +1,14 @@
+{
+  "name": "bitcoin-mining-simulator",
+  "version": "1.0.0",
+  "description": "Bitcoin Mining Simulator",
+  "scripts": {
+    "dev": "python3 server.py",
+    "start": "python3 server.py"
+  },
+  "dependencies": {
+    "@stripe/react-stripe-js": "^3.7.0",
+    "@stripe/stripe-js": "^7.3.1",
+    "stripe": "^18.2.1"
+  }
+}
